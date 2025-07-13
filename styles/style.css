@@ -90,7 +90,7 @@
     font-weight: bold;
     color: rgba(255, 255, 255, 1);
 }
-.aligned-text{
+.aligned-text {
     display: block;
     line-height: 1;
     letter-spacing: 30px;
@@ -117,7 +117,7 @@
     line-height: 28px;
     word-spacing: 19px;
 }
-.bet-button { 
+.bet-button {
     border: 1px solid rgb(255, 255, 255);
     width: 256px;
     height: 51px;
@@ -228,7 +228,7 @@
     line-height: 120%;
     color: rgb(255, 255, 255);
 }
-.card__text-last{
+.card__text-last {
     padding-bottom: 30px;
     font-size: 20px;
     font-style: normal;
