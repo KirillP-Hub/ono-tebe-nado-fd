@@ -1,5 +1,5 @@
 <p align="center">
-     <a href="https://freeimage.host/ru"><img src="https://iili.io/KYSVqxV.png" alt="KYSVqxV.png" border="0" /></a>
+     <img src="https://iili.io/KYSVqxV.png" alt="KYSVqxV.png" border="0" />
 </p>
 
 ## About
